@@ -1,0 +1,19 @@
+@media only screen and (min-width:600px) {
+    p{
+        background-color: violet ;
+    }
+}
+
+@media only screen and (min-width:800px) {
+    p{
+        background-color: pink ;
+        font-size: larger ;
+        font-display: blue;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+    p{
+        background-color: greenyellow ;
+    }
+}
