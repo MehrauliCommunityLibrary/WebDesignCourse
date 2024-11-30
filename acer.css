@@ -1,0 +1,11 @@
+@media only screen and (min-width:600px){
+p{
+    background-color:palevioletred;
+}
+}
+@media only screen and (min-width:900px){
+  p{
+    background-color: aqua;
+    font-size: larger;
+  }
+}
